@@ -1,6 +1,2 @@
 jsafdfgf
-<<<<<<< HEAD
-ghghfgfcklgg
-=======
-ghghfgfckl
->>>>>>> y
+ghghfgfcklggf
