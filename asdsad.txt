@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 jsafdfgf
 ghghfgfck
+=======
+safdfgf
+ghghfgfc
+>>>>>>> master
